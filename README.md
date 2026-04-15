@@ -87,3 +87,6 @@ Des tests statistiques ont été effectués pour identifier les corrélations en
 - Seaborn
 - Statsmodels
 - SciPy
+
+## Installation des librairies
+Lancer dans le terminal de commande 'pip install -r requirements.txt' pour installer toutes les librairies requis pour le projet.
