@@ -18,6 +18,11 @@ Des étapes de nettoyage et de préparation ont été effectuées pour assurer l
 - **'products.csv'**: Vérification des identifiants uniques et des valeurs nulles. Renommage de la colonne 'categ' en 'category' et conversion en type catégoriel.
 - **Fusion des jeux de données**: Les trois DataFrames ont été fusionnés en un seul DataFrame ('customers_transactions_products_df') pour faciliter l'analyse.
 
+## Comment lancer le projet
+**1. Importer le fichier dans Jupyter ou Collab**
+**2. Importer les fichiers CSV contenant les données**
+**3. Lancer l'exécution des différentes cellules**
+
 ## Analyse du chiffre d'affaires
 
 ### Chiffre d'affaires total
